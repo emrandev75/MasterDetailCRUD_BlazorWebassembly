@@ -1,0 +1,135 @@
+﻿@page "/Spots/Edit/{id:int}"
+@using System.Net.Http.Headers;
+@using work_01.Shared.DTO;
+@inject HttpClient http
+@inject IToastService toastService
+@inject NavigationManager NavigationManager
+
+<div class="row bg-light shadow">
+    @if (spot is null)
+    {
+        <div class="col-12">Loading...</div>
+    }
+    else
+    {
+        <br />
+        <h3 class="text-center mb-4 fw-bold text-secondary mt-4">Update Spot Details</h3>
+        <div class="col-9">
+            <EditForm Model="@spot" OnValidSubmit="SaveSpot">
+
+                <DataAnnotationsValidator />
+                <div class="form-group row mb-1 mt-3">
+                    <label class="col-form-label col-2 text-end" for="@spot.SpotName">Product name</label>
+                    <div class="col-4">
+                        <InputText @bind-Value="spot.SpotName" class="form-control" />
+                        <ValidationMessage For="@(()=>spot.SpotName)" class="text-danger" />
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@spot.Price">Product price</label>
+                    <div class="col-4">
+                        <InputNumber @bind-Value="spot.Price" class="form-control" />
+                        <ValidationMessage For="@(()=>spot.Price)" class="text-danger" />
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@spot.SpotName">Picture</label>
+                    <div class="col-4">
+                        <InputFile OnChange="@OnInputFileChange" class="form-control" />
+
+
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-2 text-end" for="@spot.IsAvailable">Available</label>
+                    <div class="col-4">
+                        <InputCheckbox @bind-Value="spot.IsAvailable" class="mt-2" />
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+
+                    <div class="col-6 offset-2 d-flex ">
+
+                        <button type="submit" class="btn btn-outline-warning">Update</button>
+
+
+                    </div>
+                </div>
+            </EditForm>
+        </div>
+        <div class="col-3 mt-2">
+
+            @if (spot is not null)
+            {
+                <img src="/Uploads/@spot.Picture" class="img-thumbnail" style="width:150px" />
+            }
+        </div>
+    }
+    <div class="d-flex justify-content-end mb-4">
+        <a href="/Products/List" class="btn shadow btn-link">Back to list</a>
+    </div>
+    <br />
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+    private SpotEditDTO? spot = new();
+    IBrowserFile? selectedFile;
+    protected override async Task OnInitializedAsync()
+    {
+        spot = await http.GetFromJsonAsync<SpotEditDTO>($"api/Spots/{id}");
+    }
+    private void OnInputFileChange(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
+
+
+        //this.StateHasChanged();
+    }
+    public async Task SaveSpot()
+    {
+        if (selectedFile is not null)
+        {
+
+            if (spot is not null)
+            {
+                var saveImage = await UploadItAsysnc();
+                spot.Picture = saveImage.StoredFileName;
+
+            }
+        }
+        var response = await http.PutAsJsonAsync($"api/Spots/{id}", spot);
+        if (response.IsSuccessStatusCode)
+        {
+            toastService.ShowSuccess("Data updated successfully");
+            NavigationManager.NavigateTo("/Spots/List");
+        }
+        else
+        {
+            toastService.ShowError("Failed to update data.");
+        }
+    }
+    private async Task<ImageUploadResponse> UploadItAsysnc()
+    {
+        using (var ms = new MemoryStream())
+        {
+            if (selectedFile is not null)
+            {
+                var content = new MultipartFormDataContent();
+                var fileContent = new StreamContent(selectedFile.OpenReadStream(long.MaxValue));
+
+                fileContent.Headers.ContentType = new MediaTypeHeaderValue(selectedFile.ContentType);
+                content.Add(content: fileContent, name: "\"file\"", fileName: selectedFile.Name);
+                var response = await http.PostAsync("api/Spots/Upload", content);
+                var r = await response.Content.ReadFromJsonAsync<ImageUploadResponse>();
+                return r == null ? new ImageUploadResponse() : r;
+            }
+            else
+            {
+                return new ImageUploadResponse();
+            }
+
+        }
+    }
+}

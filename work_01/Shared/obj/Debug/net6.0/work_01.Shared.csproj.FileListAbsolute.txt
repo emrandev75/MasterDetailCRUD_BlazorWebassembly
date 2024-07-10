@@ -1,0 +1,60 @@
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.deps.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.pdb
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.AssemblyReference.cache
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfoInputs.cache
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfo.cs
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.CoreCompileInputs.cache
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\refint\work_01.Shared.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.pdb
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\ref\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.deps.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.pdb
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.AssemblyReference.cache
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfoInputs.cache
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfo.cs
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.CoreCompileInputs.cache
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\obj\Debug\net6.0\refint\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.pdb
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Shared\obj\Debug\net6.0\ref\work_01.Shared.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.deps.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.pdb
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.AssemblyReference.cache
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfoInputs.cache
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfo.cs
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.CoreCompileInputs.cache
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\obj\Debug\net6.0\refint\work_01.Shared.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.pdb
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Shared\obj\Debug\net6.0\ref\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.deps.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.pdb
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.AssemblyReference.cache
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfoInputs.cache
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfo.cs
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.CoreCompileInputs.cache
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\obj\Debug\net6.0\refint\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.pdb
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Shared\obj\Debug\net6.0\ref\work_01.Shared.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.deps.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\bin\Debug\net6.0\work_01.Shared.pdb
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.AssemblyReference.cache
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfoInputs.cache
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.AssemblyInfo.cs
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.csproj.CoreCompileInputs.cache
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\refint\work_01.Shared.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\work_01.Shared.pdb
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Shared\obj\Debug\net6.0\ref\work_01.Shared.dll

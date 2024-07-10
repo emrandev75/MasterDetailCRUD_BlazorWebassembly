@@ -1,0 +1,4 @@
+Add-Migration ScriptD -context TourDbContext
+Add-Migration ScriptE -context ApplicationDbContext
+update-database -context ApplicationDbContext
+update-database -context TourDbContext

@@ -1,1 +1,1 @@
-# MasterDetailCRUD_BlazorWebassembly
+# MasterDetail-CRUD-Using-Blazor-Webassembly

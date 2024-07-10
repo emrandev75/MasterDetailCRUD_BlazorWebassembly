@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = work_01.Client
+build_property.RootNamespace = work_01.Client
+build_property.ProjectDir = D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Bookings/BookingList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcQm9va2luZ0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Bookings/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Bookings/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Bookings/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Customers/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Customers/CustomerList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEN1c3RvbWVyTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Customers/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Customers/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Spots/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Spots/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Pages/Spots/SpotList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcU3BvdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-epq5e5xx30
+
+[D:/c\#-class/idb project/Blazor Project/blazor_project_02/work_01/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-svhv02lxgd

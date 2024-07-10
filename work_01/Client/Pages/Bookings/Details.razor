@@ -1,0 +1,85 @@
+﻿@page "/Bookings/Details/{id:int}"
+@using work_01.Shared.DTO;
+@inject HttpClient http
+@inject NavigationManager NavigationManager
+<div class="row bg-light shadow justify-content-center">
+    <div class="row">
+        <h3 class="text-center fw-bold text-black">Bookings Details</h3>
+        @if (booking is null)
+        {
+            <div>Loading...</div>
+        }
+        else
+        {
+           <div class="text-center">
+                <div class="row mb-1 ">
+                    <label class="col-6 text-end  fw-bold text-secondary"> Start Date</label>
+                    <div class="col-6 text-start  fw-bold text-secondary">
+                        @booking.StartDate.ToString("yyyy-MM-dd")
+                    </div>
+                </div>
+                <div class="row mb-1">
+                    <label class="col-6 text-end  fw-bold text-secondary">Customer</label>
+                    <div class="col-6 text-start  fw-bold text-secondary">
+                        @booking.CustomerName
+                    </div>
+                </div>
+                <div class="row mb-1">
+                    <label class="col-6 text-end  fw-bold text-secondary">End date</label>
+                    <div class="col-6 text-start  fw-bold text-secondary">
+                        @booking.EndDate?.ToString("yyyy-MM-dd")
+                    </div>
+                </div>
+                <div class="row mb-5">
+                    <label class="col-6 text-end  fw-bold text-secondary">Status</label>
+                    <div class="col-6 text-start  fw-bold text-secondary">
+                        @booking.Status
+                    </div>
+                </div>
+            </div>
+            <br />
+            <br />
+            @if(bookingItems is not null)
+            {
+                <div><h4 class="text-center fw-bold text-secondary">Spots</h4></div>
+                <table class="table table-bordered table-striped table-hover table-responsive-sm shadow-sm">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Spot</th>
+                            <th>Travlers</th>
+                            <th>sub-Price</th>
+                        </tr>
+                    </thead>
+                   <tbody>
+                        @foreach(var oi in bookingItems)
+                    {
+                        <tr>
+                            <td>@oi.SpotName</td>
+                            <td>@oi.Travelers</td>
+                            <td>@((oi.Price*oi.Travelers).ToString("0.00"))</td>
+                        </tr>
+                    }
+                   </tbody>
+                </table>
+                <div class="col-12 mb-5">
+                    <a href="/Bookings/List" class="btn btn-link shadow">Back to list</a>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+    private BookingViewDTO? booking;
+    private BookingItemViewDTO[]? bookingItems;
+    protected override async Task OnInitializedAsync()
+    {
+        booking = await http.GetFromJsonAsync<BookingViewDTO>($"api/Bookings/DTO/{id}");
+        if (booking is not null)
+        {
+            bookingItems = await http.GetFromJsonAsync<BookingItemViewDTO[]>($"api/Bookings/Items/{id}");
+        }
+    }
+}

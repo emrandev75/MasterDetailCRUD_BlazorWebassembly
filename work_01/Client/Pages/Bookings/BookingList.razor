@@ -1,0 +1,87 @@
+﻿@page "/Bookings/List"
+@using work_01.Shared.DTO;
+@using Microsoft.AspNetCore.Authorization;
+@attribute [Authorize]
+@inject HttpClient http
+@inject IToastService toastService
+@inject NavigationManager NavigationManager
+
+<div class="row">
+    <div class="col-12">
+        <h3 class="text-center fw-bold text-secondary">Booking Lists</h3>
+        <div class="d-flex justify-content-end mb-2">
+            <a class="btn btn-outline-primary shadow-ld btn-sm" href="/Bookings/Create"><i class="bi bi-plus"></i>Add New</a>
+        </div>
+        @if(bookings is null)
+        {
+            <div>Loading..</div>
+        }
+        else
+        {
+            <table class="table table-bordered table-hover table-striped table-responsive-sm shadow">
+                <thead class="table-light">
+                    <tr>
+                        <th>Start Date</th>
+                        <th>Customer</th>
+                        <th>End date</th>
+                        <th>Status</th>
+                        <th>Spots</th>
+                        <th>Booking Price</th>
+                        <th>Actions</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var o in bookings)
+                    {
+                        <tr>
+                            <td>@o.StartDate.ToString("yyyy-MM-dd")</td>
+                            <td>@o.CustomerName</td>
+                            <td>@o.EndDate?.ToString("yyyy-MM-dd")</td>
+                            <td>@o.Status</td>
+                            <td>@o.ItemCount</td>
+                            <td>@o.BookingValue.ToString("0.00")</td>
+                            
+                            <td>
+
+                                <a class="btn btn-outline-primary shadow btn-sm" href="/Bookings/Edit/@o.BookingID"><i class="bi bi-pencil"></i>Edit</a>
+                                <button @onclick="@( ()=>Delete(o.BookingID))" class="btn btn-outline-danger shadow-sm btn-sm"><i class="bi bi-trash"></i>Delete</button>
+                            </td>
+                            <td>
+                                <a class="btn btn-link" href="/Bookings/Details/@o.BookingID"><i class="bi bi-info-circle"></i></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+@code {
+     private BookingViewDTO[]? bookings;
+    private BookingDTO[]? or;
+    protected override async Task OnInitializedAsync()
+    {
+        bookings = await http.GetFromJsonAsync<BookingViewDTO[]>("api/Bookings/DTO");
+    }
+
+    private async Task Delete(int id)
+    {
+        var response = await http.DeleteAsync($"api/Bookings/{id}");
+        if (response.IsSuccessStatusCode)
+        {
+            //toastService.ShowWarning("Data deleted successfully");
+            or = await http.GetFromJsonAsync<BookingDTO[]>("api/Bookings");
+            //await OnInitializedAsync();
+           
+            bookings = await http.GetFromJsonAsync<BookingViewDTO[]>("api/Bookings/DTO");
+        }
+        else
+        {
+            //toastService.ShowError("Failed to delete data.");
+        }
+        //StateHasChanged();
+        //NavigationManager.NavigateTo("/Orders/List", true);
+    }
+}

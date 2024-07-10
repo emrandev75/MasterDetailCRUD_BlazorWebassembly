@@ -1,0 +1,1473 @@
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.staticwebassets.runtime.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.staticwebassets.runtime.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.exe
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.deps.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.runtimeconfig.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.pdb
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\AutoMapper.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Humanizer.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\IdentityModel.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.pdb
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.pdb
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.AssemblyReference.cache
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfoInputs.cache
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfo.cs
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CoreCompileInputs.cache
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cache
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cs
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.Server.props
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.Server.props
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.Server.props
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\scopedcss\bundle\work_01.Server.styles.css
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CopyComplete
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\refint\work_01.Server.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.pdb
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.genruntimeconfig.cache
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\obj\Debug\net6.0\ref\work_01.Server.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Common.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Blazored.Toast.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\c#-class\Blazor\midExam_31\project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.staticwebassets.runtime.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.Development.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.staticwebassets.runtime.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.exe
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.deps.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.runtimeconfig.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.pdb
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\AutoMapper.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Blazored.Toast.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Humanizer.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\IdentityModel.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Common.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.pdb
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.pdb
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.AssemblyReference.cache
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfoInputs.cache
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfo.cs
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CoreCompileInputs.cache
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cache
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cs
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.Server.props
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.Server.props
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.Server.props
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.build.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.development.json
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\scopedcss\bundle\work_01.Server.styles.css
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CopyComplete
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\refint\work_01.Server.dll
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.pdb
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.genruntimeconfig.cache
+E:\Emran\Blazor\EvidanceProject\blazor_project_02\work_01\Server\obj\Debug\net6.0\ref\work_01.Server.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\libman.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.staticwebassets.runtime.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.staticwebassets.runtime.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.exe
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.deps.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.runtimeconfig.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.pdb
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\AutoMapper.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Blazored.Toast.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Humanizer.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\IdentityModel.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Common.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.pdb
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.pdb
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.AssemblyReference.cache
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfoInputs.cache
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfo.cs
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CoreCompileInputs.cache
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cache
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cs
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.Server.props
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.Server.props
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.Server.props
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\scopedcss\bundle\work_01.Server.styles.css
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CopyComplete
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\refint\work_01.Server.dll
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.pdb
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.genruntimeconfig.cache
+D:\c#-class\Blazor\midExam_31\blazor_project_02\work_01\Server\obj\Debug\net6.0\ref\work_01.Server.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\libman.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.staticwebassets.runtime.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.Development.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.staticwebassets.runtime.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.exe
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.deps.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.runtimeconfig.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.pdb
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\AutoMapper.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Blazored.Toast.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Humanizer.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\IdentityModel.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Common.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.pdb
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.pdb
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.AssemblyReference.cache
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfoInputs.cache
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfo.cs
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CoreCompileInputs.cache
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cache
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cs
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.Server.props
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.Server.props
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.Server.props
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.build.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.development.json
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\scopedcss\bundle\work_01.Server.styles.css
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CopyComplete
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\refint\work_01.Server.dll
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.pdb
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.genruntimeconfig.cache
+E:\Emran\Blazor\EvidanceProject\final\blazor_project_02\work_01\Server\obj\Debug\net6.0\ref\work_01.Server.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\libman.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\appsettings.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.staticwebassets.runtime.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.staticwebassets.runtime.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.exe
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.deps.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.runtimeconfig.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Server.pdb
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\AutoMapper.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Blazored.Toast.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Humanizer.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\IdentityModel.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Common.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Client.pdb
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\bin\Debug\net6.0\work_01.Shared.pdb
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.AssemblyReference.cache
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfoInputs.cache
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.AssemblyInfo.cs
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CoreCompileInputs.cache
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cache
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.RazorAssemblyInfo.cs
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.Server.props
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.Server.props
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.Server.props
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\scopedcss\bundle\work_01.Server.styles.css
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.csproj.CopyComplete
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\refint\work_01.Server.dll
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.pdb
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\work_01.Server.genruntimeconfig.cache
+D:\c#-class\idb project\Blazor Project\blazor_project_02\work_01\Server\obj\Debug\net6.0\ref\work_01.Server.dll

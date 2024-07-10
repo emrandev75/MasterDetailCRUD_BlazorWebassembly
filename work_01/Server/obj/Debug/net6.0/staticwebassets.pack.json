@@ -1,0 +1,169 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\3q5yrime.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3q5yrime.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\5ejt1wif.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5ejt1wif.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\c55nndyk.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c55nndyk.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\duwrhwmj.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\duwrhwmj.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\jtsbqyrg.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\jtsbqyrg.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\lrxbx13y.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\lrxbx13y.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\ow1iy4ze.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ow1iy4ze.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\oxpmmaga.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\oxpmmaga.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\pcsh2bzn.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\pcsh2bzn.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\rkit2qmo.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\rkit2qmo.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\sl0jyx3o.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\sl0jyx3o.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\usg5yev1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\usg5yev1.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\wmxfk5e0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\wmxfk5e0.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\xnovka04.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\xnovka04.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\y0503mri.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\y0503mri.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\y1zqnccv.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\y1zqnccv.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\Uploads\\yx2slps5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\yx2slps5.jpg"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\c#-class\\idb project\\Blazor Project\\blazor_project_02\\work_01\\Server\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.work_01.Server.props",
+      "PackagePath": "build\\work_01.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.work_01.Server.props",
+      "PackagePath": "buildMultiTargeting\\work_01.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.work_01.Server.props",
+      "PackagePath": "buildTransitive\\work_01.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.work_01.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
